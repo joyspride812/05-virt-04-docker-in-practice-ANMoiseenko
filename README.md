@@ -56,8 +56,19 @@ db. image=mysql:8. Контейнер должен работать в bridge-с
 \
 [bash скрипт](https://github.com/joyspride812/shvirtd-example-python/blob/main/shvirtd-example-python.sh)  
 [Ссылка на fork-репозиторий](https://github.com/joyspride812/shvirtd-example-python.git)  
+
+  
+Задача 6\
+Скачайте docker образ hashicorp/terraform:latest и скопируйте бинарный файл /bin/terraform на свою локальную машину, используя dive и docker save. Предоставьте скриншоты действий .\
+\
+Решение:\
 \
 
+Задача 6.1\
+Добейтесь аналогичного результата, используя docker cp.\
+Предоставьте скриншоты действий .\
+\
+Решение:\
 
 
 
