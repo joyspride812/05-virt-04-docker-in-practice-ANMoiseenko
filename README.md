@@ -19,8 +19,8 @@
 ![image](https://github.com/user-attachments/assets/6734e3e2-55fd-4594-8265-0dbeaf6fcca8)
 
 \
-![image](https://github.com/user-attachments/assets/d30c4c48-e708-4451-939c-74c66498ce65)
-\
+
+
 Задача 3\
 1.Изучите файл "proxy.yaml"\
 2.Создайте в репозитории с проектом файл compose.yaml. С помощью директивы "include" подключите к нему файл "proxy.yaml".\
