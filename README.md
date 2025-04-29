@@ -6,7 +6,7 @@
 1.Сделайте в своем github пространстве fork репозитория netology-code/shvirtd-example-python.\
 \
 Решение:\
-![image](https://github.com/user-attachments/assets/954c3097-b5ae-4304-a1d8-f6277ce215a2)\
+![image](https://github.com/user-attachments/assets/954c3097-b5ae-4304-a1d8-f6277ce215a2)  
 
 [Ссылка на репозиторий GitHub](https://github.com/joyspride812/shvirtd-example-python.git)
   
