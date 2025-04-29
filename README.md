@@ -8,7 +8,8 @@
 Решение:\
 ![image](https://github.com/user-attachments/assets/954c3097-b5ae-4304-a1d8-f6277ce215a2)\
 
-[Ссылка на репозиторий GitHub](https://github.com/joyspride812/shvirtd-example-python.git)
+[Ссылка на репозиторий GitHub](https://github.com/joyspride812/shvirtd-example-python.git)\
+\
 2.Создайте файл с именем Dockerfile.python для сборки данного проекта(для 3 задания изучите https://docs.docker.com/compose/compose-file/build/ ). Используйте базовый образ python:3.9-slim. Обязательно используйте конструкцию COPY . . в Dockerfile. Не забудьте исключить ненужные в имадже файлы с помощью dockerignore. Протестируйте корректность сборки.\
 \
 Решение:\
