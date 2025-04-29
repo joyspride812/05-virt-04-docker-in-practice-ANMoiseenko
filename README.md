@@ -10,7 +10,8 @@
 2.Создайте файл с именем Dockerfile.python для сборки данного проекта(для 3 задания изучите https://docs.docker.com/compose/compose-file/build/ ). Используйте базовый образ python:3.9-slim. Обязательно используйте конструкцию COPY . . в Dockerfile. Не забудьте исключить ненужные в имадже файлы с помощью dockerignore. Протестируйте корректность сборки.\
 \
 Решение:\
-![image](https://github.com/user-attachments/assets/f68f93e3-92ce-42c2-8977-ca5c401da5ea)
+![image](https://github.com/user-attachments/assets/73f717d3-1440-4815-9b87-e3f7c9dc939e)
+
 \
 ![image](https://github.com/user-attachments/assets/c7bb93f9-93bf-4425-9df3-26792c2200fd)\
 \
