@@ -18,7 +18,7 @@
 \
 ![image](https://github.com/user-attachments/assets/6734e3e2-55fd-4594-8265-0dbeaf6fcca8)
 
-\
+
 
 
 Задача 3\
