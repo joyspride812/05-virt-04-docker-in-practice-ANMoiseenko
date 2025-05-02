@@ -68,7 +68,7 @@ db. image=mysql:8. Контейнер должен работать в bridge-с
 ![image](https://github.com/user-attachments/assets/b1de9a14-887f-48ed-ae5e-baae9d7c3a78)  
 ![image](https://github.com/user-attachments/assets/c9fc6e5f-d56f-413b-ad35-f1c951eadbc1)  
 ![image](https://github.com/user-attachments/assets/4d36e432-84b9-4cee-a0d4-9ded641dacac)  
-\
+  
 
 
 
@@ -77,8 +77,10 @@ db. image=mysql:8. Контейнер должен работать в bridge-с
 Задача 6.1\
 Добейтесь аналогичного результата, используя docker cp.\
 Предоставьте скриншоты действий .\
-\
-Решение:\
+  
+Решение:  
+![image](https://github.com/user-attachments/assets/2c767c6c-c253-4acd-a679-ae486a748383)
+
 
 
 
