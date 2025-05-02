@@ -52,7 +52,8 @@ db. image=mysql:8. Контейнер должен работать в bridge-с
 \
 Решение:\
 \
-![image](https://github.com/user-attachments/assets/afcd8839-9ccf-40c6-8f01-e68b9b54dac6)  
+![image](https://github.com/user-attachments/assets/8b2879d2-91bd-46cb-b039-450d43e04329)  
+  
 \
 [bash скрипт](https://github.com/joyspride812/shvirtd-example-python/blob/main/shvirtd-example-python.sh)  
 [Ссылка на fork-репозиторий](https://github.com/joyspride812/shvirtd-example-python.git)  
